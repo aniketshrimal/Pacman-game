@@ -1,0 +1,3 @@
+/home/aniket/Pacman-game/build/CMakeFiles/rebuild_cache.dir
+/home/aniket/Pacman-game/build/CMakeFiles/graphics_asgn1.dir
+/home/aniket/Pacman-game/build/CMakeFiles/edit_cache.dir
